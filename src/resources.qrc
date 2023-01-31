@@ -1,0 +1,35 @@
+<RCC>
+
+    <qresource prefix="/">
+        <file alias="main.qml">contents/ui/main.qml</file>
+    </qresource>
+
+    <qresource prefix="/">
+        <file alias="todaystasks.qml">contents/ui/todaystasks.qml</file>
+    </qresource>
+
+    <qresource prefix="/">
+        <file alias="weeklytasks.qml">contents/ui/weeklytasks.qml</file>
+    </qresource>
+
+    <qresource prefix="/">
+        <file alias="monthlytasks.qml">contents/ui/monthlytasks.qml</file>
+    </qresource>
+
+    <qresource prefix="/">
+        <file alias="yearlytasks.qml">contents/ui/yearlytasks.qml</file>
+    </qresource>
+
+    <qresource prefix="/">
+        <file alias="Addtask.qml">contents/ui/Addtask.qml</file>
+    </qresource>
+
+    <qresource prefix="/">
+        <file alias="addgoal.qml">contents/ui/addgoal.qml</file>
+    </qresource>
+
+    <qresource prefix="/">
+        <file alias="Todaystasksdelegate.qml">contents/ui/Todaystasksdelegate.qml</file>
+    </qresource>
+
+</RCC>
